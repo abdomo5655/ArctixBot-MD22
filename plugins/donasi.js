@@ -1,4 +1,4 @@
-let handler =  m => m.reply(` ❰𝐀𝐫𝐜𝐭𝐢𝐱 × 𝐀𝐫𝐜𝐞𝐮𝐬 𝐢𝐧𝐜.❱
+let handler =  m => m.reply(` ❰ مـــكاين لا جروب لا قلاوي .❱
 https://chat.whatsapp.com/Kb6msWfU8fP25KcG3M4Xtw
 `.trim()) // Add yourself if you want
 handler.help = ['donate']
